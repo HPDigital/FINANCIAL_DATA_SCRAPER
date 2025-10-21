@@ -1,3 +1,7 @@
+"""
+FinancialDataExtractor
+"""
+
 import fitz  # PyMuPDF
 import pandas as pd
 import re
